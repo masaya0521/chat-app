@@ -1,10 +1,3 @@
-<template>
-  <div>
-    <button @click="plus(number)">ボタン</button>
-    {{ totalValue }}
-  </div>
-</template>
-
 <script lang>
 import Vue from 'vue';
 
